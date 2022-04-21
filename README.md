@@ -8,10 +8,7 @@ erste Aufgabe 21-04-22
 #### studiere gerade bei DCI und ich habe spaß
 
 
-<<<<<<< HEAD
-=======
 #hallo
 ##Monssif
 ###31.07.89
->>>>>>> 652869b636c574892cd5662629f3f9cd8d1a00db
 
